@@ -6,9 +6,15 @@
 </div>
 <div align=center>
 	<h3>🎓 Education 🎓</h3>
-	<p> 군포고등학교 2014-2017.02</p>
-	<p> 한세대학교 2018 - 2023.02</p>
+	<p> ✔️군포고등학교 2014-2017.02</p>
+	<p> ✔️한세대학교 2018 - 2023.02</p>
 	<h5>※2021 겨울방학 비트단기 수료</h5>
+</div>
+<br>
+<div align=center>
+	<h3>📜 Certification 📜</h3>
+  <p> ✔️정보처리기사 - 2022.09.02 취득
+  <p> ✔️TOEIC 805 - 2022.11.27 - 2024.11.27
 </div>
 <br>
 <div align=center>
@@ -38,12 +44,6 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
-<br>
-<div align=center>
-	<p>📜 Certification 📜</p>
-  <p> 정보처리기사 - 2022.09.02 취득
-  <p> TOEIC 805 - 2022.11.27 - 2024.11.27
 </div>
 <br>
 <div align=center>
