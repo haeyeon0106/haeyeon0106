@@ -15,7 +15,7 @@
   <p> ✔️정보처리기사 - 2022.09.02 취득</p>
   <p> ✔️TOEIC 805 - 2022.11.27 - 2024.11.27</p>
   <p> ✔️2021 겨울방학 비트단기 수료 - C/C++/자료구조와 알고리즘 학습</p>
-	<p> ✔️개발 동아리'감자'부원 - 2022.09 - Present</p>
+	<p> ✔️개발 동아리 '감자'부원 - 2022.09 - Present</p>
 </div>
 <br>
 <div align=center>
@@ -62,14 +62,19 @@
 <br>
 <div align=center>
 	<h3>💻 Project 💻</h3>
+	
+<div align="center">
 	<h5> ✔️ MoYeDream(모여드림) </h5>
 		<p>- 2022.06 - 2022.07 <br>
 		- 취준생을 위한 스터디 모집 및 취업공고 사이트 <br>
 		- html, css, js을 이용하여 프론트 부분인 스터디 목록 및 세부사항 페이지를 구현하였고<br>Ajax를 이용하여 카카오 로그인을 구현하였습니다.<br></p>
+</div>
 	
+<div align="center">
 	<h5> ✔️ 동아리 프로젝트(To be) </h5>
-		<p> - 2023.01 - 
+		<p>- 2023.01 -  <br> 
 	
+</div>
 </div>
 <br>
 <div align=center>
