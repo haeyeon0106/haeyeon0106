@@ -81,7 +81,7 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeyeon0106&layout=compact&theme=tokyonight">
 	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=haeyeon0106&show_icons=true">
+
 	
 ![Haeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeyeon0106&show_icons=true&theme=dracula)
 </div>
